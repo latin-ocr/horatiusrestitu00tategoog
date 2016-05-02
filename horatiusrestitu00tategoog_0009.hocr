@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./horatiusrestitu00tategoog_0009.png"; bbox 0 0 2872 5010; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 608 2275 1092 2362">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 608 2275 1092 2362">
+     <span class='ocr_line' id='line_1_1' title="bbox 608 2275 1092 2362; baseline 0.023 -31"><span class='ocrx_word' id='word_1_1' title='bbox 608 2275 793 2353; x_wconf 72' lang='lat' dir='ltr'><strong>[Emendat</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 809 2278 977 2339; x_wconf 67' lang='lat' dir='ltr'><strong>Smfionm&#39;</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 992 2282 1092 2362; x_wconf 60' lang='lat' dir='ltr'><em>Ham]</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 480 4186 1195 4235">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 480 4186 1195 4235">
+     <span class='ocr_line' id='line_1_2' title="bbox 480 4186 1195 4235; baseline 0 -10"><span class='ocrx_word' id='word_1_4' title='bbox 480 4192 505 4225; x_wconf 78' lang='grc' dir='ltr'><strong>υ.</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 514 4186 627 4233; x_wconf 69' lang='lat' dir='ltr'><strong>woodun,</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 647 4189 737 4232; x_wconf 66' lang='lat' dir='ltr'>Prima.</span> <span class='ocrx_word' id='word_1_7' title='bbox 750 4190 815 4235; x_wconf 69' lang='lat' dir='ltr'>Anael</span> <span class='ocrx_word' id='word_1_8' title='bbox 823 4190 898 4229; x_wconf 73' lang='lat' dir='ltr'><strong>court.</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 915 4189 1005 4228; x_wconf 71' lang='lat' dir='ltr'>sumet</span> <span class='ocrx_word' id='word_1_10' title='bbox 1013 4192 1089 4231; x_wconf 55' lang='lat' dir='ltr'><strong>Stre«.</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1103 4191 1195 4227; x_wconf 77' lang='lat' dir='ltr'>bondun.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1440 5010">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1440 5010">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 1440 5010; baseline 0 0"><span class='ocrx_word' id='word_1_12' title='bbox 0 0 1440 5010; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
